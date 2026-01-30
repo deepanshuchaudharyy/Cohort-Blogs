@@ -22,3 +22,5 @@ This repository contains links to my technical blogs written on Hashnode.
     1). What is cURL ? - https://browser-working.hashnode.dev/getting-started-with-curl
   
     2). Working of Web Browser - https://browser-working.hashnode.dev/how-web-browsers-works-a-beginners-guide
+  
+    3). TCP 3 Way Handshaking - https://browser-working.hashnode.dev/tcp-working-understanding-the-3-way-handshake-and-reliable-communication
